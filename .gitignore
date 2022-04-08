@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# CMakeLists
+my_build
+
+# vscode config
+.vscode
